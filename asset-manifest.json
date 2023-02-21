@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gutarwaves/static/css/main.0d887ddc.chunk.css",
+    "main.js": "/gutarwaves/static/js/main.927ff1f0.chunk.js",
+    "main.js.map": "/gutarwaves/static/js/main.927ff1f0.chunk.js.map",
+    "runtime-main.js": "/gutarwaves/static/js/runtime-main.8369c2c7.js",
+    "runtime-main.js.map": "/gutarwaves/static/js/runtime-main.8369c2c7.js.map",
+    "static/css/2.333c17c8.chunk.css": "/gutarwaves/static/css/2.333c17c8.chunk.css",
+    "static/js/2.b867d459.chunk.js": "/gutarwaves/static/js/2.b867d459.chunk.js",
+    "static/js/2.b867d459.chunk.js.map": "/gutarwaves/static/js/2.b867d459.chunk.js.map",
+    "index.html": "/gutarwaves/index.html",
+    "static/css/2.333c17c8.chunk.css.map": "/gutarwaves/static/css/2.333c17c8.chunk.css.map",
+    "static/css/main.0d887ddc.chunk.css.map": "/gutarwaves/static/css/main.0d887ddc.chunk.css.map",
+    "static/js/2.b867d459.chunk.js.LICENSE.txt": "/gutarwaves/static/js/2.b867d459.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/gutarwaves/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8369c2c7.js",
+    "static/css/2.333c17c8.chunk.css",
+    "static/js/2.b867d459.chunk.js",
+    "static/css/main.0d887ddc.chunk.css",
+    "static/js/main.927ff1f0.chunk.js"
+  ]
+}
